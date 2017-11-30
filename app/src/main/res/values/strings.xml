@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho02-2017- 2</string>
+    <string-array name="eventos">
+        <item>Evento 1</item>
+        <item>Evento 2</item>
+        <item>Evento 3</item>
+        <item>Evento 4</item>
+    </string-array>
+</resources>
